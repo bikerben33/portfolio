@@ -3,9 +3,9 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = your_project_name
-SOURCEDIR     = .
-BUILDDIR      = html
+SPHINXPROJ    = bdm_porfolio
+SOURCEDIR     = docs/source
+BUILDDIR      = docs/_build
 
 .PHONY: help clean html
 
