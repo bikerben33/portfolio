@@ -5,7 +5,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = bdm_porfolio
 SOURCEDIR     = docs/source
-BUILDDIR      = docs/_build
+BUILDDIR      = docs/build
 
 .PHONY: help clean html
 
@@ -17,3 +17,5 @@ clean:
 
 html:
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS)
+
+deploy: html @echo "Deploying to GitHub Pages..." @ghp-import -n -p -f $(BUILDDIR)/html
