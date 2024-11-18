@@ -37,7 +37,7 @@ Code for different environments.
 API Documentation
 ==================
 
-.. autofunction:: your_module.some_function
+
 
 Notes
 =====
