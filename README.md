@@ -27,7 +27,7 @@ can help your company.
 Style Guide
 -----------
 
-This document follows these styles in ReStructuredText:
+This document follows these styles in reStructuredText:
 
 ```
    Document Title

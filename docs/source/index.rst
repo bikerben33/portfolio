@@ -17,3 +17,6 @@ The samples below will show you how I demonstrate high quality work in these are
    writing-samples
    info-architecture
    content-strategy
+   usability
+   key-results
+   awards
