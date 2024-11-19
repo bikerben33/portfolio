@@ -11,6 +11,21 @@ For quarterly software releases, we determined where users were coming from and
 where to guide them for the next step.
 
 .. image:: images/gs1.png
-  :width: 400
-  :alt: A flow chart showing entry points where a user might have come from
+   :width: 600
+   :alt: A flow chart showing entry points where a user might have come from
         when arriving to a Get Started Guide. 
+
+Get Started Next Steps
+**********************
+
+After a user completes the get started steps, they run a sample to ensure the
+system is working correctly. From there, the user gets directed to next level
+steps or the troubleshooting guide.
+
+.. image:: images/gs2.png
+   :width: 600
+   :alt: A flow chart the next step a user should follow after running a sample.
+        A successful run of the sample directs them to Learn More about the product,
+        an unsuccessful run directs them to the Troubleshooting Guide. 
+
+
