@@ -8,6 +8,7 @@ Benjamin D Moore Portfolio
    :caption: Contents:
 
    writing-samples
+   info-architecture
 
 Indices and tables
 ==================
