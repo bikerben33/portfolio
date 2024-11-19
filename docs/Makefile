@@ -18,6 +18,7 @@ clean:
 html:
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS)
 
+
 deploy: html 
 	@echo "Deploying to GitHub Pages..."
 	@ghp-import -n -p -f $(BUILDDIR)/html

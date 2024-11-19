@@ -1,17 +1,19 @@
 
 
 Benjamin D Moore Portfolio
-==========================
+##########################
+
+For the past five years, I worked with stakeholders to develop documentation
+that meets users' needs and provides a positive user experience. I collaborated
+with engineers, designers, program managers, and our user experience team to
+identify upcoming features and understand needs of our audience.
+
+The samples below will show you how I demonstrate high quality work in these areas:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    writing-samples
    info-architecture
-
-Indices and tables
-==================
-
-* :ref:`genindex`
- 
+   content-strategy
