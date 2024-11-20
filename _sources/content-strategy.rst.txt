@@ -22,9 +22,12 @@ and time out of office.
 
    Proprietary information has been blurred out.
 
+.. image:: images/plan1.png
+   :alt: A SmartSheet calendar view showing overlapping deadlines. 
+
+
 
 .. image:: images/planning.png
-   :width: 1000
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
 Tracking
