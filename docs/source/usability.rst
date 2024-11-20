@@ -13,7 +13,6 @@ for converting files and JavaScript to implement the highlighting.
    Proprietary information has been blurred out.
 
 .. image:: images/usability.png
-   :scale: 150%
    :alt: A side by side example of straight HTML with no syntax highlighting,
          compared to the updated version where I used JavaScript to implement
          syntax highlighting and collapsible code snippets. 
