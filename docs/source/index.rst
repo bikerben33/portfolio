@@ -4,6 +4,7 @@ Benjamin D Moore Portfolio
 ##########################
 
 `biker_ben@hotmail.com <mailto:biker_ben@hotmail.com>`_
+
 `LinkedIn <https://www.linkedin.com/in/ben-moore-2067a01/>`_
 
 
