@@ -100,7 +100,8 @@ than in past releases.
 .. image:: images/process-improvement1.png
    :width: 2000
    :alt: A calendar showing the change in process along with instructions for how to do the new process.
-s
+
+
 Step by Step instructions
 =========================
 
