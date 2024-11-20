@@ -26,10 +26,11 @@ and time out of office.
    :width: 2000
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
-Some text.
+Continuous improvement
+======================
 
 
-.. image:: images/planning.png
+.. image:: images/plan2.png
    :width: 2000 
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
@@ -41,7 +42,7 @@ Engineers and product owners assign Jiras to the Information Development
 a Jira, and that the Jira is being worked on by our team when we have the
 information we need.
 
-.. image:: images/tracking.png
+.. image:: images/jiraflow.png
    :width: 2000
    :alt: A flow chart showing process for assigning a Jira to the documentation team, 
          then how that Jira is tracked to completion.
@@ -58,10 +59,19 @@ these advantages:
      to produce indicator reports and balance resources.
    * Users could be assigned write permissions or read-only permissions.  
 
-.. image:: images/splist.png
-   :width: 1500
+.. image:: images/splist1.png
+   :width: 2000
    :alt: A table showing how users can quickly identify the owner of a document, the publishing
          status, and the ability to display customized views.
+
+Document Details
+================
+
+.. image:: images/splist2.png
+   :width: 2000
+   :alt: A table showing how users can quickly identify the owner of a document, the publishing
+         status, and the ability to display customized views.
+
 
 Improving
 *********
@@ -77,12 +87,23 @@ validated yet.
          validation had less than 7 business days to complete validation. After Ben Moore implemented
          process changes, validiation had more than 10 days for validation.
 
+Implemented changes to shift left:
+   #. Deliver customer-ready documentation at earlier drop date, even if it is not final.
+   #. Consolidate validation databases to reduce false hits.
+   #. Automated broken link checker.
+
+
 I implemented a minimum set of documentation standards that enabled our team to
 deliver customer-ready documentation to the validation team four days sooner
 than in past releases.     
 
-.. image:: images/process-improvement.png
+.. image:: images/process-improvement1.png
    :width: 2000
    :alt: A calendar showing the change in process along with instructions for how to do the new process.
+s
+Step by Step instructions
+=========================
 
-
+.. image:: images/process-improvement2.png
+   :width: 2000
+   :alt: A calendar showing the change in process along with instructions for how to do the new process.
