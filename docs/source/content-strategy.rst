@@ -20,7 +20,7 @@ and time out of office.
 
 .. note::
 
-   Proprietary information has been blurred out
+   Proprietary information has been blurred out.
 
 
 .. image:: images/planning.png
