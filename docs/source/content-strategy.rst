@@ -23,7 +23,7 @@ and time out of office.
    Proprietary information has been blurred out.
 
 .. image:: images/plan1.png
-   :scale: 200%
+   :scale: 100%
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
 Some text.
