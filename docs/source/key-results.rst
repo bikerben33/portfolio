@@ -26,7 +26,7 @@ Key Results
      five days down to one day.
 
 Retrospectives
-##############
+**************
 
 For every release cycle, I capture issues as they arise and log them in a Jira
 for a future retrospective meeting. After the release, I set up a meeting to
