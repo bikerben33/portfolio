@@ -24,7 +24,7 @@ and time out of office.
 
 
 .. image:: images/planning.png
-   :width: 600
+   :width: 1000
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
 Tracking
@@ -36,7 +36,7 @@ a Jira, and that the Jira is being worked on by our team when we have the
 information we need.
 
 .. image:: images/tracking.png
-   :width: 600
+   :width: 2000
    :alt: A flow chart showing process for assigning a Jira to the documentation team, 
          then how that Jira is tracked to completion.
 
@@ -53,7 +53,7 @@ these advantages:
    * Users could be assigned write permissions or read-only permissions.  
 
 .. image:: images/splist.png
-   :width: 600
+   :width: 1500
    :alt: A table showing how users can quickly identify the owner of a document, the publishing
          status, and the ability to display customized views.
 
@@ -66,7 +66,7 @@ validation takes 2-3 days, we were publishing documentation that had not been
 validated yet.
 
 .. image:: images/improving.png
-   :width: 600
+   :width: 1500
    :alt: A chart showing the progression of three software releases. The first two releases show that
          validation had less than 7 business days to complete validation. After Ben Moore implemented
          process changes, validiation had more than 10 days for validation.
@@ -76,7 +76,7 @@ deliver customer-ready documentation to the validation team four days sooner
 than in past releases.     
 
 .. image:: images/process-improvement.png
-   :width: 600
+   :width: 2000
    :alt: A calendar showing the change in process along with instructions for how to do the new process.
 
-   
+
