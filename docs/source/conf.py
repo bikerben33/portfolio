@@ -14,6 +14,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.todo',
+    'sphinx_rtd_theme',
 ]
 
 templates_path = ['_templates']
