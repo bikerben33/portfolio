@@ -29,7 +29,7 @@ Some text.
 
 
 .. image:: images/planning.png
-   :scale: 100%
+   :width: 2000 
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
 Tracking
