@@ -25,9 +25,11 @@ and time out of office.
 .. image:: images/plan1.png
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
+Some text.
 
 
 .. image:: images/planning.png
+   :scale: 100%
    :alt: A SmartSheet calendar view showing overlapping deadlines. 
 
 Tracking
