@@ -8,6 +8,9 @@ content from DOORS Next Generation into HTML content, then implement code
 snippet collapsing and code snippet highlighting using a combination of Doxygen
 for converting files and JavaScript to implement the highlighting.
 
+.. note::
+
+   Proprietary information has been blurred out.
 
 .. image:: images/usability.png
    :width: 1000
