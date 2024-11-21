@@ -11,7 +11,7 @@ Benjamin D Moore Portfolio
 For the past five years, I worked with stakeholders to develop documentation
 that meets users' needs and provides a positive user experience. I collaborated
 with engineers, designers, program managers, and our user experience team to
-identify upcoming features and understand needs of our audience.
+identify upcoming features and understand the needs of our audience.
 
 The samples below will show you how I demonstrate high quality work in these areas:
 
