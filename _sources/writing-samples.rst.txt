@@ -9,17 +9,17 @@ Writing
 
    <a href="Intel® oneAPI Programming Guide Development Environment Setup <https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2024-2/oneapi-development-environment-setup.html>" target="_blank">Intel® oneAPI Programming Guide Development Environment Setup</a>
 
-       The Environment Setup page is one of the most important parts of the Programming
-       Guide, and it frequently changes. In November 2024, Intel introduced a new
-       default installation directory for both Windows and Linux. Those who use custom
-       directories would not have any issues. But users who accept default directories
-       would need to customize configuration files, point scripts to the new location
-       for libraries and compilers, and alter their PATH.
-       
-       My role in this project was to rewrite the entire Development Environment Setup
-       pages, verify it with engineering, validate it with our validation team, and
-       coordinate updating 180 documents to point users to this content so they would
-       be aware of the change to default installation methods.
+The Environment Setup page is one of the most important parts of the Programming
+Guide, and it frequently changes. In November 2024, Intel introduced a new
+default installation directory for both Windows and Linux. Those who use custom
+directories would not have any issues. But users who accept default directories
+would need to customize configuration files, point scripts to the new location
+for libraries and compilers, and alter their PATH.
+
+My role in this project was to rewrite the entire Development Environment Setup
+pages, verify it with engineering, validate it with our validation team, and
+coordinate updating 180 documents to point users to this content so they would
+be aware of the change to default installation methods.
 
 
 
