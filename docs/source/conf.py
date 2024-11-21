@@ -15,6 +15,7 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.todo',
     'sphinx_rtd_theme',
+    'sphinx_new_tab_link',
 ]
 
 templates_path = ['_templates']
