@@ -54,8 +54,12 @@ document, or see the overall progress toward the release schedule. This list pro
 these advantages:
 
    * Opens quickly in a web browser.
-   * Users can create customized views to show data such as: documents assigned to a specific user,
-     documents for a specific product, overdue documents, completed documents. This data was used
+   * Users can create customized views to show data such as:
+     - documents assigned to a specific user
+     - documents for a specific product 
+     - overdue documents, or 
+     - completed documents
+     This data was used
      to produce indicator reports and balance resources.
    * Users could be assigned write permissions or read-only permissions.  
 
@@ -81,16 +85,18 @@ documentation validation timeline to the day before we started publishing. Since
 validation takes 2-3 days, we were publishing documentation that had not been
 validated yet.
 
+To fix this problem, I implemented these process improvements:
+   #. Delivered customer-ready documentation at earlier drop date, even if it was not final.
+   #. Consolidated validation databases to reduce false hits.
+   #. Automated broken link checker.
+
+
 .. image:: images/improving.png
    :width: 1500
    :alt: A chart showing the progression of three software releases. The first two releases show that
          validation had less than 7 business days to complete validation. After Ben Moore implemented
          process changes, validiation had more than 10 days for validation.
 
-Implemented changes to shift left:
-   #. Deliver customer-ready documentation at earlier drop date, even if it is not final.
-   #. Consolidate validation databases to reduce false hits.
-   #. Automated broken link checker.
 
 
 I implemented a minimum set of documentation standards that enabled our team to
