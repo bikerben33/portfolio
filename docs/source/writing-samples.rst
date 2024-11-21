@@ -24,7 +24,7 @@ Writing
        be aware of the change to default installation methods.
 
 
-------------------
+
 
 `How to use CMake with Intel® oneAPI Toolkits <https://www.intel.com/content/www/us/en/developer/articles/technical/how-to-use-cmake-with-intel-oneapi-toolkits.html>`_ 
 
