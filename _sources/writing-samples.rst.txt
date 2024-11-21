@@ -5,8 +5,6 @@
 Writing
 #######
 
-------------------
-
 .. |location_link| raw:: html
 
    <a href="Intel® oneAPI Programming Guide Development Environment Setup <https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2024-2/oneapi-development-environment-setup.html>" target="_blank">Intel® oneAPI Programming Guide Development Environment Setup</a>
