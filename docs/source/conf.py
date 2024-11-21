@@ -15,8 +15,10 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.todo',
     'sphinx_rtd_theme',
-    'sphinx_new_tab_link',
+#   'sphinx_new_tab_link', ##This will open links in a new tab if enabled.
 ]
+
+# new_tab_link_show_external_link_icon = True ## This shows the open links in new tab icon.
 
 templates_path = ['_templates']
 exclude_patterns = []
