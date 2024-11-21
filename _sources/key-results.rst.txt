@@ -5,7 +5,7 @@ Key Results
 
    * To increase employee satisfaction and employee effectiveness, I led an
      initiative to identify gaps in mentorship resources and enable employees to
-     be able to utilize existing resources. From Q1 to Q2, I increased the
+     be able to utilize existing resources. Over a period of one quarter, I increased the
      awareness of existing mentorship resources by 35%, as measured by survey
      responses.
    * Reduced turnaround time from content freeze to validation from eight days
@@ -25,25 +25,29 @@ Key Results
      Generation into a customer-ready document that reduced publishing time from
      five days down to one day.
 
-Retrospectives
-**************
+Retrospectives for Process Improvement
+**************************************
 
-For every release cycle, I capture issues as they arise and log them in a Jira
-for a future retrospective meeting. After the release, I set up a meeting to
-discuss the issues, assign tasks as needed, and follow up with task owners to
-ensure we are improving our processes for the next release. As a result of these
+For every release cycle, I captured issues loged them in a Jira
+for a future retrospective meeting. After the release, I set up a retrospective meeting
+where we:
+- discussed the issues 
+- assigned tasks as needed 
+- followed up with task owners to ensure we are improved our processes for future releases
+ 
+As a result of these
 retrospectives, I implemented new methods such as:
 
-   * Adding program manager support in Europe so our European validation team could
+   * Added program manager support in Europe so our European validation team could
      get answers to questions during their business hours.
-   * Removing duplicated content that was confusing customers. 
-   * Requiring explicit links instead of simple
+   * Removed duplicated content that was confusing customers. 
+   * Required explicit links instead of simple
      links in reStructuredText documentation. 
-   * Adding tasks such as renewing permissions to the release calendar so that permissions
+   * Added tasks such as renewing permissions to the release calendar so that permissions
      are handled well before the release.
-   * Compiling false positive issues found by validation into a database so that the same 
+   * Compiled false positive issues found by validation into a database so that the same 
      false positives are not reported in future releases.
-   * Reviewing and updating our Doc Specs after every release, a document which describes key
+   * Revied and updated our Doc Specs after every release, a document which describes key
      details about a document: stakeholders, release cadence, how to build
      documentation, and where source files are located.
 
