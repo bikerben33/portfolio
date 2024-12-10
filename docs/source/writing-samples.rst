@@ -7,6 +7,9 @@ Writing
 
 `Intel® oneAPI Programming Guide Development Environment Setup <https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2024-2/oneapi-development-environment-setup.html>`_
 
+
+:download:`PDF Version, starting on page 15 <pdf/oneapi-programming-guide.pdf>`
+
 ..
 
    The Environment Setup page is one of the most important parts of the Programming
@@ -26,6 +29,8 @@ Writing
 
 `How to use CMake with Intel® oneAPI Toolkits <https://www.intel.com/content/www/us/en/developer/articles/technical/how-to-use-cmake-with-intel-oneapi-toolkits.html>`_ 
 
+:download:`PDF Version <pdf/cmake-article.pdf>`
+
 ..
 
    With the December 2023 release, configuration options changed so that users had options when
@@ -34,6 +39,9 @@ Writing
    options.
 
 `Get Started with the Intel® oneAPI Base Toolkit for Linux <https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-linux/2024-0/overview.html>`_
+
+
+:download:`PDF Version <pdf/oneapi-base-toolkit_get-started-guide-linux.pdf>`
 
 ..
 
@@ -49,6 +57,8 @@ UI Writing Samples
 
 `Get Started with the Intel® oneAPI Base Toolkit for Windows <https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-windows/2024-0/run-a-sample-project-with-vscode.html>`_
 
+:download:`PDF Version <pdf/oneapi-base-toolkit_get-started-guide-windows.pdf>`
+
 ..
 
    The Get Started
@@ -58,6 +68,8 @@ UI Writing Samples
 
 
 `Using Visual Studio Code with Intel® oneAPI Toolkits User Guide <https://www.intel.com/content/www/us/en/docs/oneapi/user-guide-vs-code/2024-0/overview.html>`_
+
+:download:`PDF Version <pdf/oneapi_user-guide-vs-code.pdf>`
 
 ..
     
