@@ -13,9 +13,11 @@ Writing
 ..
 
    **Project**
+
    Introduce a new default installation directory for both Windows and Linux.
 
    **Context** 
+
    The Environment Setup page is one of the most important parts of the Programming
    Guide, and it frequently changes. When the default installation directory changed, users who
    accept default directories
@@ -23,6 +25,7 @@ Writing
    for libraries and compilers, and alter their PATH.
    
    **Achievements**
+
    - informed users of advantages of the new layout
    - increased usability for users by describing configuration options
    - engineering verified content was accurate
@@ -37,13 +40,16 @@ Writing
 ..
 
    **Project**
+
    Explain how users can configure CMake to automatically trigger configuration options.
 
    **Context**
+
    With the December 2023 release, configuration options changed so that users had options when
    configuring their systems. I worked with a developer to write this article, publish, and promote the article.
 
    **Achievements**
+
    - educated users on new configuration options using CMake
    - reduced duplicate text in multiple documents by pointing users to this article when dealing with CMake options
 
@@ -55,15 +61,18 @@ Writing
 ..
 
    **Project**
+
    Provide a quick path for users to be able to verify installation, configure their system, and run a sample.
 
    **Context**
+
    I originally created this for the first beta release of the Intel® oneAPI Base Toolkit. I worked with the
    Developer Experience team to run user studies to improve the get started experience both from a technical
    standpoint and from a documentation standpoint. The 2024.0 version was the last version I worked on, after
    two years of quarterly releases.
 
    **Achievements**
+
    - improved user success in user studies by more than 40 percent
    - directed users to troubleshooting steps when commands produced error messages
    - integrated installed samples with GitHub samples to enable users to experiment with different functions 
@@ -79,15 +88,18 @@ UI Writing Samples
 ..
 
    **Project**
+
    Provide a quick path for users to be able to verify installation, configure their system, and run a sample.
 
    **Context**
+
    I originally created this for the first beta release of the Intel® oneAPI Base Toolkit. I worked with the
    Developer Experience team to run user studies to improve the get started experience both from a technical
    standpoint and from a documentation standpoint. The 2024.0 version was the last version I worked on, after
    two years of quarterly releases.
 
    **Achievements**
+
    - improved user success for configuration in user studies by more than 40 percent
    - directed users to troubleshooting steps when the UI produced error messages
    - integrated installed samples with GitHub samples to enable users to experiment with different functions 
@@ -100,15 +112,18 @@ UI Writing Samples
 ..
     
    **Project**
+
    Improve  usability and adoption for developers by creating Visual Studio Code (VS Code)
    extensions that enhance development with Intel oneAPI components.
    
    **Context**
+
    User feedback indicated that VS Code was the most popular interface for coding on the DPC++ and SYCL platforms.
    The development team created extensions for enhancing the user experience, and I worked on a a guide for how
    to install, configure, and use the extensions for a better user experience.
 
    **Achievements**
+   
    - more than 85,000 downloads, with an average rating of 4.6 stars
    - improved user success for running samples in user studies by more than 25 percent 
 
