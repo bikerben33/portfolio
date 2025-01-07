@@ -12,19 +12,22 @@ Writing
 
 ..
 
+   **Project**
+   Introduce a new default installation directory for both Windows and Linux.
+
+   **Context** 
    The Environment Setup page is one of the most important parts of the Programming
-   Guide, and it frequently changes. In November 2024, Intel introduced a new
-   default installation directory for both Windows and Linux. Those who use custom
-   directories would not have any issues. But users who accept default directories
+   Guide, and it frequently changes. When the default installation directory changed, users who
+   accept default directories
    would need to customize configuration files, point scripts to the new location
    for libraries and compilers, and alter their PATH.
    
-   My role in this project:
-   - rewrite the Development Environment Setup section
-   - verify it with engineering, 
-   - validate it with our validation team
-   - coordinate updating 180 documents to link users to this content
-
+   **Achievements**
+   - informed users of advantages of the new layout
+   - increased usability for users by describing configuration options
+   - engineering verified content was accurate
+   - validation verified that procedures were accurate
+   - updated 180 documents to mention this section and point users to this section for more information
 
 
 `How to use CMake with Intel® oneAPI Toolkits <https://www.intel.com/content/www/us/en/developer/articles/technical/how-to-use-cmake-with-intel-oneapi-toolkits.html>`_ 
@@ -33,10 +36,16 @@ Writing
 
 ..
 
+   **Project**
+   Explain how users can configure CMake to automatically trigger configuration options.
+
+   **Context**
    With the December 2023 release, configuration options changed so that users had options when
-   configuring their systems. I worked with a developer to write this article
-   explaining how users can configure CMake to automatically trigger configuration
-   options.
+   configuring their systems. I worked with a developer to write this article, publish, and promote the article.
+
+   **Achievements**
+   - educated users on new configuration options using CMake
+   - reduced duplicate text in multiple documents by pointing users to this article when dealing with CMake options
 
 `Get Started with the Intel® oneAPI Base Toolkit for Linux <https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-linux/2024-0/overview.html>`_
 
@@ -45,11 +54,19 @@ Writing
 
 ..
 
-   This shows how a user can:
-   - configure their system
-   - install necessary drivers
-   - run a sample to verify their installation is working 
-   - learn how to take advantage of the features in the toolkit
+   **Project**
+   Provide a quick path for users to be able to verify installation, configure their system, and run a sample.
+
+   **Context**
+   I originally created this for the first beta release of the Intel® oneAPI Base Toolkit. I worked with the
+   Developer Experience team to run user studies to improve the get started experience both from a technical
+   standpoint and from a documentation standpoint. The 2024.0 version was the last version I worked on, after
+   two years of quarterly releases.
+
+   **Achievements**
+   - improved user success in user studies by more than 40 percent
+   - directed users to troubleshooting steps when commands produced error messages
+   - integrated installed samples with GitHub samples to enable users to experiment with different functions 
 
 
 UI Writing Samples
@@ -61,10 +78,19 @@ UI Writing Samples
 
 ..
 
-   The Get Started
-   Guides are key for users to configure their system and verify that the
-   components are installed correctly. Then users can try a sample to see how the
-   software works.
+   **Project**
+   Provide a quick path for users to be able to verify installation, configure their system, and run a sample.
+
+   **Context**
+   I originally created this for the first beta release of the Intel® oneAPI Base Toolkit. I worked with the
+   Developer Experience team to run user studies to improve the get started experience both from a technical
+   standpoint and from a documentation standpoint. The 2024.0 version was the last version I worked on, after
+   two years of quarterly releases.
+
+   **Achievements**
+   - improved user success for configuration in user studies by more than 40 percent
+   - directed users to troubleshooting steps when the UI produced error messages
+   - integrated installed samples with GitHub samples to enable users to experiment with different functions 
 
 
 `Using Visual Studio Code with Intel® oneAPI Toolkits User Guide <https://www.intel.com/content/www/us/en/docs/oneapi/user-guide-vs-code/2024-0/overview.html>`_
@@ -73,11 +99,18 @@ UI Writing Samples
 
 ..
     
-   After the beta launch of Intel oneAPI components, we focused on usability and
-   creating a familiar experience for developers by creating Visual Studio Code
-   extensions that enhance development with Intel oneAPI components. This user
-   guide documented how to install and use the extensions as well as configuring VS
-   Code for different environments.
+   **Project**
+   Improve  usability and adoption for developers by creating Visual Studio Code (VS Code)
+   extensions that enhance development with Intel oneAPI components.
+   
+   **Context**
+   User feedback indicated that VS Code was the most popular interface for coding on the DPC++ and SYCL platforms.
+   The development team created extensions for enhancing the user experience, and I worked on a a guide for how
+   to install, configure, and use the extensions for a better user experience.
+
+   **Achievements**
+   - more than 85,000 downloads, with an average rating of 4.6 stars
+   - improved user success for running samples in user studies by more than 25 percent 
 
 
 
