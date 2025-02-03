@@ -2,8 +2,11 @@
 .. _writing-samples:
 
 
-Writing
-#######
+Writing Samples
+###############
+
+All of the samples below were targeted towards software developers using the Intel®
+oneAPI suite of complilers, libraries, and tools. 
 
 `Intel® oneAPI Programming Guide Development Environment Setup <https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2024-2/oneapi-development-environment-setup.html>`_
 
@@ -31,6 +34,14 @@ Writing
      - engineering verified content was accurate
      - validation verified that procedures were accurate
      - updated 180 documents to mention this section and point users to this section for more information
+  
+  **Technical Details**
+
+     Source files: reStructuredText
+     Repository: internal GitHub repository
+     Transformation: Sphinx to DITA (sphinx2dita)
+     Web Platform: Adobe Experience Manager (AEM) 
+
 
 
 `How to use CMake with Intel® oneAPI Toolkits <https://www.intel.com/content/www/us/en/developer/articles/technical/how-to-use-cmake-with-intel-oneapi-toolkits.html>`_ 
@@ -52,6 +63,13 @@ Writing
 
      - educated users on new configuration options using CMake
      - reduced duplicate text in multiple documents by pointing users to this article when dealing with CMake options
+
+   **Technical Details**
+
+     Source file: AEM article
+     Repository: AEM article editor
+     Web Platform: Adobe Experience Manager (AEM) 
+
 
 `Get Started with the Intel® oneAPI Base Toolkit for Linux <https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-linux/2024-0/overview.html>`_
 
@@ -76,6 +94,14 @@ Writing
      - improved user success in user studies by more than 40 percent
      - directed users to troubleshooting steps when commands produced error messages
      - integrated installed samples with GitHub samples to enable users to experiment with different functions 
+
+   **Technical Details**
+
+     Source files: DITA XML
+     Repository: SDL Trisoft Publication Manager
+     Transformation: SDL publication to DITA XML
+     Web Platform: Adobe Experience Manager (AEM) 
+
 
 
 UI Writing Samples
@@ -105,6 +131,13 @@ UI Writing Samples
      - integrated installed samples with GitHub samples to enable users to experiment with different functions 
 
 
+   **Technical Details**
+
+     Source files: DITA XML
+     Repository: SDL Trisoft Publication Manager
+     Transformation: SDL publication to DITA XML
+     Web Platform: Adobe Experience Manager (AEM) 
+
 `Using Visual Studio Code with Intel® oneAPI Toolkits User Guide <https://www.intel.com/content/www/us/en/docs/oneapi/user-guide-vs-code/2024-0/overview.html>`_
 
 :download:`PDF Version <pdf/oneapi_user-guide-vs-code.pdf>`
@@ -128,5 +161,10 @@ UI Writing Samples
      - improved user success for running samples in user studies by more than 25 percent 
 
 
-
+  **Technical Details**
+  
+     Source files: reStructuredText
+     Repository: internal GitHub repository
+     Transformation: Sphinx to DITA (sphinx2dita)
+     Web Platform: Adobe Experience Manager (AEM) 
 

@@ -1,9 +1,16 @@
 .. _content-strategy:
 
-Content Strategy
-################
+Content Strategy and Optimizaiton
+#################################
 
-I implemented tools and processes to make improvements such as:
+I led a team of 15 Technical Writers to deliver 80 documents for quarterly
+software releases. My role was to ensure:
+- global changes were implemented across all documents
+- deadlines were met
+- quality standards were met
+- coordination between cross functional teams
+
+To achieve these goals, I implemented tools and processes to make improvements such as:
 
 * Moved deadlines for Objectives and Key Results so that they don't conflict
   with release deadlines.
