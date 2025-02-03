@@ -19,6 +19,7 @@ Benjamin D Moore Portfolio
    <a href="https://www.linkedin.com/in/ben-moore-2067a01/" target="_blank">LinkedIn</a>
 
 
+
 `Downloadable Resume <pdf/BenDMooreResume.pdf>`_
 
 
