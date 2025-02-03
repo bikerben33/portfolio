@@ -7,8 +7,11 @@ Information Architecture
 Get Started Entry Points
 ************************
 
-For quarterly software releases, we determined where users were coming from and
+For quarterly software releases at Intel, I worked with our User Expereince team to
+optimize the experience for developers who were new to the Intel® oneAPI ecosystem of  
+compilers, libraries, and tools. We determined where users were coming from and
 where to guide them for the next step.
+
 
 .. image:: images/gs1.png
    :width: 600

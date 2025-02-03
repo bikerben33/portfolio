@@ -24,6 +24,9 @@ Key Results
    * Created a method for exporting content from IBM DOORS Next
      Generation into a customer-ready document that reduced publishing time from
      five days down to one day.
+   * Created a way to convert content from IBM DOORS Next Generation into HTML content
+     with code snippet collapsing and highlighting using a combination of Doxygen
+     and JavaScript.
 
 Retrospectives for Process Improvement
 **************************************

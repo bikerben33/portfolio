@@ -1,10 +1,10 @@
 .. _usability:
 
-Usability
-#########
+Documentation Usability
+#######################
 
 For the Intel® Autonomous Driving Library User Guide, I created a way to convert
-content from DOORS Next Generation into HTML content, then implement code
+content from IBM DOORS Next Generation into HTML content, then implement code
 snippet collapsing and code snippet highlighting using a combination of Doxygen
 for converting files and JavaScript to implement the highlighting.
 
