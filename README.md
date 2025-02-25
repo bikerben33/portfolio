@@ -1,7 +1,12 @@
 Portfolio of Benjamin D. Moore
 ------------------------------
 
-Welcome to my portfolio repository!
+.. raw:: html
+
+   <a href="mailto:moore.benjamin.david@outlook.com">moore.benjamin.david@outlook.com</a>
+
+
+Welcome to my portfolio!
 
 For the past five years, I worked with stakeholders to develop documentation
 that meets users’ needs and provides a positive user experience. I collaborated
