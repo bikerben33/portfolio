@@ -20,7 +20,7 @@ Benjamin D Moore Portfolio
 
 
 
-`Downloadable Resume <pdf/BenDMooreResume.pdf>`_
+`Downloadable Resume <https://github.com/bikerben33/portfolio/blob/main/docs/source/pdf/BenDMooreResume.pdf>`_
 
 `This portfolio in GitHub <https://github.com/bikerben33/portfolio>`_. 
 
