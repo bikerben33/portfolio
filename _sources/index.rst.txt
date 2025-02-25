@@ -22,6 +22,12 @@ Benjamin D Moore Portfolio
 
 `Downloadable Resume <pdf/BenDMooreResume.pdf>`_
 
+`This portfolio in GitHub <https://github.com/bikerben33/portfolio>_. 
+
+`Intel GitHHub <https://github.com/bdmoore1/>`_
+
+`Personal GitHub <https://github.com/bikerben33/>`_
+
 
 From the time I played my first video game, I have had a passion for technology. I
 have spent my career learning about the workings of computers, cell phones,
