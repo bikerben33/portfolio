@@ -19,7 +19,7 @@ Benjamin D Moore Portfolio
    <a href="https://www.linkedin.com/in/ben-moore-2067a01/" target="_blank">LinkedIn</a>
 
 `Downloadable Resume <https://github.com/bikerben33/portfolio/blob/main/docs/source/pdf/BenDMooreResume.pdf>`_ | 
-`This portfolio in GitHub <https://github.com/bikerben33/portfolio>`_. | 
+`This portfolio in GitHub <https://github.com/bikerben33/portfolio>`_ | 
 `Intel GitHub <https://github.com/bdmoore1/>`_ | 
 `Personal GitHub <https://github.com/bikerben33/>`_
 
