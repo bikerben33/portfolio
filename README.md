@@ -1,9 +1,7 @@
 Portfolio of Benjamin D. Moore
 ------------------------------
 
-.. raw:: html
-
-   <a href="mailto:moore.benjamin.david@outlook.com">moore.benjamin.david@outlook.com</a>
+<a href="mailto:moore.benjamin.david@outlook.com">moore.benjamin.david@outlook.com</a>
 
 
 Welcome to my portfolio!
