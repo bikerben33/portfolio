@@ -5,6 +5,13 @@
 Writing Samples
 ###############
 
+:ref:`Application Programmer Interface (API) Documentation<Application Programmer Interface (API) Documentation>`
+:ref:`Database Documentation<Database Documentation>`
+:ref:`User Interface (UI) Documentation<User Interface (UI) Documentation>`
+
+Application Programmer Interface (API) documentation
+****************************************************
+
 All of the samples below were targeted towards software developers using the Intel®
 oneAPI suite of complilers, libraries, and tools. 
 
@@ -103,9 +110,50 @@ oneAPI suite of complilers, libraries, and tools.
      Web Platform: Adobe Experience Manager (AEM) 
 
 
+Database Documentation
+**********************
 
-UI Writing Samples
-******************
+`Data Warehouse Direct Access User Guide <https://cccnext.jira.com/wiki/spaces/DWPub/pages/1628864764/CCC+Data+Warehouse+-+Direct+Access+User+Guide>`_ 
+
+:download:`PDF Version <pdf/dw-daug.pdf>`
+
+   **Project**
+
+    Colleges in the California Community College system can view and share data through a data warehouse managed by the Califonria Community 
+    College Technology Center. Colleges have the option of using a reporting interface managed by the Technology Center, or 
+    with a direct connection using ODBC or JDBC. This guide tells them how to make that connection.  
+
+   **Context**
+
+     This document had not had a major update in more than a year, and had never gone through a review. My task was to 
+     update the document for accuracy and usability.  
+
+   **Achievements**
+
+     - Updated technical accuracy by testing the system and working with developers and end users to verify which technologies were
+       still in use and add in technologies and features that had been implemented but were not documented.
+     - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
+       of relying on long blocks of text. One example is shown below:
+
+       **Before**
+       .. image:: images/dwda-before.png
+          :alt: A block of text explaining the connection between colleges and the Data Warehouse.
+
+        **After**
+        .. image:: images/dwda-after.png
+           :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
+     
+
+   **Technical Details**
+
+     Source files: Atlassian Confluence Wiki pages
+     Web Platform: Atlassian 
+
+
+
+
+User Interface (UI) Documentation
+*********************************
 
 `Get Started with the Intel® oneAPI Base Toolkit for Windows <https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-windows/2024-0/run-a-sample-project-with-vscode.html>`_
 
