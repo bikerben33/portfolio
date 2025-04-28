@@ -182,23 +182,25 @@ Database Documentation
      This document had not been updated in more than four years and was full of inconsistencies and inaccuracies. My task was to bring the
      document up to date and improve readability and usability.  
 
- **Achievements**
+    **Achievements**
 
      - Updated technical accuracy by researching current technlogogies in Bitbucket, Jira, and Confluence. Then, I worked with developers
        and data architects to verify the new content that I found in my research.
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
 
-**Before**
+    **Before**
+
 .. image:: images/sg-integration-before.png
    :alt: A block of text explaining how standardized data is compared to non-standardized data.
 
-**After**
+    **After**
+
 .. image:: images/sg-integration-after.png
    :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
      
 
-   **Technical Details**
+    **Technical Details**
 
      Source files: Atlassian Confluence Wiki pages
      Web Platform: Atlassian 
