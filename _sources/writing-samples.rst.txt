@@ -49,10 +49,10 @@ oneAPI suite of complilers, libraries, and tools.
   
   **Technical Details**
 
-     Source files: reStructuredText
-     Repository: internal GitHub repository
-     Transformation: Sphinx to DITA (sphinx2dita)
-     Web Platform: Adobe Experience Manager (AEM) 
+     - Source files: reStructuredText
+     - Repository: internal GitHub repository
+     - Transformation: Sphinx to DITA (sphinx2dita)
+     - Web Platform: Adobe Experience Manager (AEM) 
 
 
 
@@ -78,9 +78,9 @@ oneAPI suite of complilers, libraries, and tools.
 
    **Technical Details**
 
-     Source file: AEM article
-     Repository: AEM article editor
-     Web Platform: Adobe Experience Manager (AEM) 
+     - Source file: AEM article
+     - Repository: AEM article editor
+     - Web Platform: Adobe Experience Manager (AEM) 
 
 
 `Get Started with the Intel® oneAPI Base Toolkit for Linux <https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-linux/2024-0/overview.html>`_
@@ -109,10 +109,10 @@ oneAPI suite of complilers, libraries, and tools.
 
    **Technical Details**
 
-     Source files: DITA XML
-     Repository: SDL Trisoft Publication Manager
-     Transformation: SDL publication to DITA XML
-     Web Platform: Adobe Experience Manager (AEM) 
+     - Source files: DITA XML
+     - Repository: SDL Trisoft Publication Manager
+     - Transformation: SDL publication to DITA XML
+     - Web Platform: Adobe Experience Manager (AEM) 
 
 
 .. _database-documentation:
@@ -142,21 +142,22 @@ Database Documentation
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
 
-**Before**
+   **Before**
     
-.. image:: images/dwda-before.png
-   :alt: A block of text explaining the connection between colleges and the Data Warehouse.
+   .. image:: images/dwda-before.png
+      :alt: A block of text explaining the connection between colleges and the Data Warehouse.
 
-**After**
-      
-.. image:: images/dwda-after.png
-   :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
+
+   **After**
+
+   .. image:: images/dwda-after.png
+      :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
      
 
    **Technical Details**
 
-     Source files: Atlassian Confluence Wiki pages
-     Web Platform: Atlassian 
+     - Source files: Atlassian Confluence Wiki pages
+     - Web Platform: Atlassian 
 
 
 `Introduction to SuperGlue <https://cccnext.jira.com/wiki/spaces/GLUEPD/pages/4293689367/Introduction+to+SuperGlue>`_ 
@@ -202,8 +203,8 @@ Database Documentation
 
     **Technical Details**
 
-     Source files: Atlassian Confluence Wiki pages
-     Web Platform: Atlassian 
+     - Source files: Atlassian Confluence Wiki pages
+     - Web Platform: Atlassian 
 
    
 .. _user-interface-ui-documentation:
@@ -237,10 +238,10 @@ User Interface (UI) Documentation
 
    **Technical Details**
 
-     Source files: DITA XML
-     Repository: SDL Trisoft Publication Manager
-     Transformation: SDL publication to DITA XML
-     Web Platform: Adobe Experience Manager (AEM) 
+     - Source files: DITA XML
+     - Repository: SDL Trisoft Publication Manager
+     - Transformation: SDL publication to DITA XML
+     - Web Platform: Adobe Experience Manager (AEM) 
 
 `Using Visual Studio Code with Intel® oneAPI Toolkits User Guide <https://www.intel.com/content/www/us/en/docs/oneapi/user-guide-vs-code/2024-0/overview.html>`_
 
@@ -250,7 +251,7 @@ User Interface (UI) Documentation
     
    **Project**
 
-     Improve  usability and adoption for developers by creating Visual Studio Code (VS Code)
+     Improve usability and adoption for developers by creating Visual Studio Code (VS Code)
      extensions that enhance development with Intel oneAPI components.
    
    **Context**
@@ -267,8 +268,8 @@ User Interface (UI) Documentation
 
   **Technical Details**
   
-     Source files: reStructuredText
-     Repository: internal GitHub repository
-     Transformation: Sphinx to DITA (sphinx2dita)
-     Web Platform: Adobe Experience Manager (AEM) 
+     - Source files: reStructuredText
+     - Repository: internal GitHub repository
+     - Transformation: Sphinx to DITA (sphinx2dita)
+     - Web Platform: Adobe Experience Manager (AEM) 
 
