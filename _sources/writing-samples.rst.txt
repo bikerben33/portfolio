@@ -6,8 +6,13 @@ Writing Samples
 ###############
 
 :ref:`Application Programmer Interface (API) Documentation<application-programmer-interface-api-documentation>`
+
 :ref:`Database Documentation<database-documentation>`
+
 :ref:`User Interface (UI) Documentation<user-interface-ui-documentation>`
+
+
+.. _application-programmer-interface-api-documentation:
 
 Application Programmer Interface (API) Documentation
 ****************************************************
@@ -110,6 +115,8 @@ oneAPI suite of complilers, libraries, and tools.
      Web Platform: Adobe Experience Manager (AEM) 
 
 
+.. _database-documentation:
+
 Database Documentation
 **********************
 
@@ -135,15 +142,15 @@ Database Documentation
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
 
-       **Before**
+**Before**
     
-       .. image:: images/dwda-before.png
-          :alt: A block of text explaining the connection between colleges and the Data Warehouse.
+.. image:: images/dwda-before.png
+   :alt: A block of text explaining the connection between colleges and the Data Warehouse.
 
-        **After**
+**After**
       
-        .. image:: images/dwda-after.png
-           :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
+.. image:: images/dwda-after.png
+   :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
      
 
    **Technical Details**
@@ -182,15 +189,13 @@ Database Documentation
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
 
-       **Before**
-    
-       .. image:: images/sg-integration-before.png
-          :alt: A block of text explaining how standardized data is compared to non-standardized data.
+**Before**
+.. image:: images/sg-integration-before.png
+   :alt: A block of text explaining how standardized data is compared to non-standardized data.
 
-        **After**
-      
-        .. image:: images/sg-integration-after.png
-           :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
+**After**
+.. image:: images/sg-integration-after.png
+   :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
      
 
    **Technical Details**
@@ -199,6 +204,7 @@ Database Documentation
      Web Platform: Atlassian 
 
    
+.. _user-interface-ui-documentation:
 
 User Interface (UI) Documentation
 *********************************
