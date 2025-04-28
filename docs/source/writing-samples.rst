@@ -5,11 +5,11 @@
 Writing Samples
 ###############
 
-:ref:`Application Programmer Interface (API) Documentation<Application Programmer Interface (API) Documentation>`
-:ref:`Database Documentation<Database Documentation>`
-:ref:`User Interface (UI) Documentation<User Interface (UI) Documentation>`
+:ref:`Application Programmer Interface (API) Documentation<application-programmer-interface-api-documentation>`
+:ref:`Database Documentation<database-documentation>`
+:ref:`User Interface (UI) Documentation<user-interface-ui-documentation>`
 
-Application Programmer Interface (API) documentation
+Application Programmer Interface (API) Documentation
 ****************************************************
 
 All of the samples below were targeted towards software developers using the Intel®
@@ -119,9 +119,9 @@ Database Documentation
 
    **Project**
 
-    Colleges in the California Community College system can view and share data through a data warehouse managed by the Califonria Community 
-    College Technology Center. Colleges have the option of using a reporting interface managed by the Technology Center, or 
-    with a direct connection using ODBC or JDBC. This guide tells them how to make that connection.  
+     Colleges in the California Community College system can view and share data through a data warehouse managed by the Califonria Community 
+     College Technology Center. Colleges have the option of using a reporting interface managed by the Technology Center, or 
+     with a direct connection using ODBC or JDBC. This guide tells them how to make that connection.  
 
    **Context**
 
@@ -136,10 +136,12 @@ Database Documentation
        of relying on long blocks of text. One example is shown below:
 
        **Before**
+    
        .. image:: images/dwda-before.png
           :alt: A block of text explaining the connection between colleges and the Data Warehouse.
 
         **After**
+      
         .. image:: images/dwda-after.png
            :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
      
@@ -150,7 +152,53 @@ Database Documentation
      Web Platform: Atlassian 
 
 
+`Introduction to SuperGlue <https://cccnext.jira.com/wiki/spaces/GLUEPD/pages/4293689367/Introduction+to+SuperGlue>`_ 
 
+:download:`PDF Version <pdf/intro-superglue.pdf>`
+
+   **Project**
+
+     The California Community College Technology Center created a combination of technologies called SuperGlue to assist colleges
+     in the usage and maintenance of their databases through:
+     
+      - application integration
+      - service orchestration
+      - API management
+      - data integration
+
+     The document Introduction to SuperGlue is intended to give IT professionals an overview of how SuperGlue is integrated into the
+     California Community College system, as well as provide context on how it is funded and explain historical decisions that
+     led to the technologies that are currently implemented.
+
+    **Context**
+
+     This document had not been updated in more than four years and was full of inconsistencies and inaccuracies. My task was to bring the
+     document up to date and improve readability and usability.  
+
+ **Achievements**
+
+     - Updated technical accuracy by researching current technlogogies in Bitbucket, Jira, and Confluence. Then, I worked with developers
+       and data architects to verify the new content that I found in my research.
+     - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
+       of relying on long blocks of text. One example is shown below:
+
+       **Before**
+    
+       .. image:: images/sg-integration-before.png
+          :alt: A block of text explaining how standardized data is compared to non-standardized data.
+
+        **After**
+      
+        .. image:: images/sg-integration-after.png
+           :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
+     
+
+   **Technical Details**
+
+     Source files: Atlassian Confluence Wiki pages
+     Web Platform: Atlassian 
+
+   
 
 User Interface (UI) Documentation
 *********************************
