@@ -142,13 +142,13 @@ Database Documentation
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
 
-   **Before**
+   **Original**
     
    .. image:: images/dwda-before.png
       :alt: A block of text explaining the connection between colleges and the Data Warehouse.
 
 
-   **After**
+   **Revised**
 
    .. image:: images/dwda-after.png
       :alt: A paragraph, bullet list, and image explaining the connection between colleges and the Data Warehouse.
@@ -190,14 +190,14 @@ Database Documentation
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
 
-    **Before**
+    **Original**
 
     .. image:: images/intro-sg-integration-before.png
        :alt: A block of text explaining how standardized data is compared to non-standardized data.
 
 
 
-    **After**
+    **Revised**
 
     .. image:: images/intro-sg-integration-after.png
        :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
