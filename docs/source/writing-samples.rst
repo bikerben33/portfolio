@@ -192,13 +192,15 @@ Database Documentation
 
     **Before**
 
-.. image:: images/sg-integration-before.png
-   :alt: A block of text explaining how standardized data is compared to non-standardized data.
+    .. image:: images/sg-integration-before.png
+       :alt: A block of text explaining how standardized data is compared to non-standardized data.
+
+
 
     **After**
 
-.. image:: images/sg-integration-after.png
-   :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
+    .. image:: images/sg-integration-after.png
+       :alt: A paragraph, and an image explaining how standardized data is compared to non-standardized data.
      
 
     **Technical Details**
