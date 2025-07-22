@@ -185,7 +185,7 @@ Database Documentation
 
     **Achievements**
 
-     - Updated technical accuracy by researching current technlogogies in Bitbucket, Jira, and Confluence. Then, I worked with developers
+     - Updated technical accuracy by researching current technogogies in Bitbucket, Jira, and Confluence. Then, I worked with developers
        and data architects to verify the new content that I found in my research.
      - Increased readability and usability by utilizing bullet lists, tables, and figures to explain technical concepts instead 
        of relying on long blocks of text. One example is shown below:
