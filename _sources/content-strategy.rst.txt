@@ -5,6 +5,7 @@ Content Strategy and Optimizaiton
 
 I led a team of 15 Technical Writers to deliver 80 documents for quarterly
 software releases. My role was to ensure:
+
 * global changes were implemented across all documents
 * deadlines were met
 * quality standards were met
