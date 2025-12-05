@@ -43,7 +43,6 @@ about complex topics then summarize the content into user-friendly documentation
 for the target audience. I am eager to put these skills to use as a writer,
 editor, and collaborator.
 
-Hello PSU!
 
 The samples below will show you how I demonstrate high quality work in these areas:
 
